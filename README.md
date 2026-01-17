@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="AI Brain Animation" width="600"/>
+</p> -->
 
-<!--
-**Isha-Maryam/Isha-Maryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Isha Maryam 🤖  
+**AI & Deep Learning Enthusiast | Full-Stack Developer | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- Aspiring **AI Engineer** with strong programming & analytical skills  
+- Experienced in **Python, C, C++, C#, HTML, CSS, JavaScript**  
+- Knowledge in **Data Structures, Algorithms, ASP.NET, Windows Forms, LINQ, MySQL**  
+- Passionate about **AI, Machine Learning, and Data Analysis**  
+- Strong foundation in **Mathematics** (Linear Algebra, Calculus)
+
+---
+
+## 🔗 Connect with Me
+| 🌐 Portfolio | 👔 LinkedIn | 📫 Email |
+|--------------|------------|---------|
+| [isha-maryam-ai-engineer.web.app](https://isha-maryam-ai-engineer.web.app/) | [LinkedIn](www.linkedin.com/in/isha-maryam-84ab8a327) | ishamaryam69@gmail.com |
+
+---
+
+## 🛠 Skills
+| Programming | Web Development | AI / Data | Database / Backend |
+|------------|----------------|-----------|------------------|
+| Python, C,C#, C++ | HTML, CSS, JavaScript | NumPy, Pandas, Machine Learning | MySQL, ASP.NET |
+
+---
+Always learning, building, and exploring AI technologies 🤖
+
+
+> Always learning, building, and exploring AI technologies 🤖
