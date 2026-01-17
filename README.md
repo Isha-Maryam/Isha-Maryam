@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="AI Brain Animation" width="600"/>
-</p> -->
+<p align="center">
+  <img src="/banner.png" width=100% alt="Banner"/>
+</p> 
 
 # Hi, I'm Isha Maryam 🤖  
 **AI & Deep Learning Enthusiast | Full-Stack Developer | Problem Solver**
@@ -29,7 +29,5 @@
 | Python, C,C#, C++ | HTML, CSS, JavaScript | NumPy, Pandas, Machine Learning | MySQL, ASP.NET |
 
 ---
-Always learning, building, and exploring AI technologies 🤖
-
 
 > Always learning, building, and exploring AI technologies 🤖
