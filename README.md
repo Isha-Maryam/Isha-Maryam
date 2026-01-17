@@ -19,7 +19,7 @@
 ## 🔗 Connect with Me
 | 🌐 Portfolio | 👔 LinkedIn | 📫 Email |
 |--------------|------------|---------|
-| [isha-maryam-ai-engineer.web.app](https://isha-maryam-ai-engineer.web.app/) | [LinkedIn](www.linkedin.com/in/isha-maryam-84ab8a327) | ishamaryam69@gmail.com |
+| [isha-maryam-ai-engineer.web.app](https://isha-maryam-ai-engineer.web.app/) | [LinkedIn](https://www.linkedin.com/in/isha-maryam-84ab8a327/) | ishamaryam69@gmail.com |
 
 ---
 
@@ -30,4 +30,3 @@
 
 ---
 
-> Always learning, building, and exploring AI technologies 🤖
