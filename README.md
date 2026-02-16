@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" width=100% alt="Banner"/>
+  <img src="assets/Banner.png" width=100% alt="Banner"/>
 </p> 
 
 # Hi, I'm Isha Maryam 🤖  
